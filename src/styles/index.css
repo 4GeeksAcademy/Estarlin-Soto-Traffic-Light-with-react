@@ -1,3 +1,7 @@
+body{
+    background-color: rgb(79, 79, 79);
+}
+
 .container{
     border: 1px black solid;
     background-color: black;
